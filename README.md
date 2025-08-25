@@ -17,8 +17,13 @@ El proyecto sigue un enfoque estructurado de Procesamiento de Lenguaje Natural (
 
 Tecnologías Usadas 💻
 Python
+
 Pandas: Manejo y análisis de datos.
+
 NLTK: Preprocesamiento de texto.
+
 Scikit-learn: Modelado de Machine Learning.
+
 Matplotlib/Seaborn: Visualización de datos.
+
 WordCloud: Visualización de nubes de palabras.
